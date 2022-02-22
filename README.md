@@ -1,2 +1,2 @@
-# XGAE
-This is a temporary website for Sapsalgae Token.
+# $XGAE
+This is a website for Sapsalgae Token.
